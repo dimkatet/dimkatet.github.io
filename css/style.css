@@ -1,0 +1,29 @@
+body 
+{
+    
+    background-image: url(../img/background.png);
+    background-repeat: round;
+}
+
+.main img
+{
+    margin: 0;  
+    position: absolute;
+    right: 50%;
+    transform: translate(50%, 10%)
+}
+
+.main a
+{
+    margin: 0;  
+    position: absolute;
+    right: 50%;
+    top: 77%;
+    transform: translate(50%, 0%);
+    font-size: 170%;
+    color: palevioletred;
+    font-family: helvetica;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+
+}
